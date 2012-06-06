@@ -1,5 +1,0 @@
-C:\Users\Merx3\Documents\Visual Studio 2010\Projects\DataPicker\DataPicker\bin\DataPicker.dll
-C:\Users\Merx3\Documents\Visual Studio 2010\Projects\DataPicker\DataPicker\bin\DataPicker.pdb
-C:\Users\Merx3\Documents\Visual Studio 2010\Projects\DataPicker\DataPicker\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Merx3\Documents\Visual Studio 2010\Projects\DataPicker\DataPicker\obj\Debug\DataPicker.dll
-C:\Users\Merx3\Documents\Visual Studio 2010\Projects\DataPicker\DataPicker\obj\Debug\DataPicker.pdb
